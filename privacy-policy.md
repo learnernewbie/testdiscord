@@ -6,4 +6,4 @@
 - No extra data is collected except as needed to display commands and operate features.
 - All Discord data access is subject to Discord’s Privacy Policy.
 
-For any data concerns contact: [YOUR EMAIL OR CONTACT LINK]
+For any data concerns contact: me in the discord server
